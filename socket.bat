@@ -1,6 +1,12 @@
 java socket.java
 pause
 
+Сравнение "Git-flow" и "магистральной разработки"
+https://habr.com/ru/articles/765264/
+https://www.atlassian.com/ru/continuous-delivery/continuous-integration/trunk-based-development
+
+
+
 GIT - контроль версий
 
 master - основная ветка может быть protected
